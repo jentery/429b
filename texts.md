@@ -1,4 +1,4 @@
-# Required Texts for English 429B (Spring 2016) 
+# Required Texts for English 429B
 
 * *Kindred*, Octavia E. Butler
 * *Babel-17*, Samuel R. Delany 
