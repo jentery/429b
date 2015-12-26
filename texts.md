@@ -1,10 +1,10 @@
 # Required Texts for English 429B (Spring 2016) 
 
-* “No Woman Born,” C.L. Moore	
+* *Kindred*, Octavia E. Butler
 * *Babel-17*, Samuel R. Delany 
 * *Ubik*, Philip K. Dick			
 * *The Left Hand of Darkness*, Ursula K. Le Guin 
-* *Kindred*, Octavia E. Butler		
+* “No Woman Born,” C.L. Moore	
 * *Mumbo Jumbo*, Ishmael Reed 
 * *Slaughterhouse Five*, Kurt Vonnegut
 
