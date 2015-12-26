@@ -1,3 +1,3 @@
-# Description of English 429B (Spring 2016) 
+# Description of English 429B
 
 From the 1940s through the 1970s, how did speculation and fiction intersect in the United States? During the period, how did novels depict the future, through what politics and aesthetics, and under what assumptions about society and culture? What utopias, dystopias, alternative histories, and possible worlds were written? Why? As a survey of mid-20th-century U.S. literature, this course engages these questions and more. We will not only foreground the importance of science fiction during the mid-1900s, but also unpack speculation as a literary device central to texts from the period.     
