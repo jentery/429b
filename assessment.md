@@ -15,11 +15,11 @@ Failure to complete these will result in an "N" regardless of the cumulative per
 
 ## Grading Rubric for Essays 
 
-A+: The content exceeds the expectations of the prompt. It is incredibly focused and coherently integrates examples with explanations or analysis. It demonstrates awareness of its own limitations or implications, and it considers multiple perspectives when appropriate. It reflects in-depth engagement with the selected text, and the argument is incredibly persuasive.  
+A+: The content exceeds expectations of the prompt. It is incredibly focused and coherently integrates examples with explanations or analysis. It demonstrates awareness of its own limitations or implications, and it considers multiple perspectives when appropriate. It reflects in-depth engagement with the selected text, and the argument is incredibly persuasive.  
 
-A- through A+: The content exceeds the expectations of the prompt. It is focused and coherently integrates examples with explanations or analysis. It demonstrates awareness of its own limitations or implications, and it considers multiple perspectives when appropriate. It reflects in-depth engagement with the selected text, and the argument is persuasive.  
+A- through A: The content exceeds expectations of the prompt. It is focused and coherently integrates examples with explanations or analysis. It demonstrates awareness of its own limitations or implications, and it considers multiple perspectives when appropriate. It reflects in-depth engagement with the selected text, and the argument is persuasive.  
 
-B- through B+: The content meets the expectations of the prompt. It is focused and coherently integrates examples with explanations or analysis. It demonstrates some awareness of its own limitations or implications, and it considers multiple perspectives when appropriate. It reflects engagement with the selected text, and the argument is sound.  
+B- through B+: The content meets expectations of the prompt. It is focused and coherently integrates examples with explanations or analysis. It demonstrates some awareness of its own limitations or implications, and it considers multiple perspectives when appropriate. It reflects engagement with the selected text, and the argument is sound.  
 
 C or C+: The content meets some expectations of the prompt. It is somewhat focused and integrates some examples with explanations or analysis. It demonstrates minimal awareness of its own limitations or implications, and it considers few perspectives. It reflects engagement with the selected text; however, the argument is not sound.  
 
@@ -31,17 +31,17 @@ F: The content is missing or falls extremely short of the word count.
 
 ## Grading Rubric for Presentations 
 
-A+: The content and delivery exceed expectations of the prompt. They offer a highly proficient, even memorable demonstration of knowledge of the course material and spark significant, thoughtful discussion. 
+A+: The content and delivery exceed expectations of the prompt. They demonstrate a highly proficient, even memorable knowledge of the course material. They spark significant discussion.
 
-A- through A+: The content and delivery exceed expectations of the prompt. They offer a proficient, even memorable demonstration of knowledge of the course material and spark significant discussion. 
+A- through A: The content and delivery exceed expectations of the prompt. They demonstrate a proficient knowledge of the course material. They spark significant discussion.
 
-B- through B+: The content and delivery meet expectations of the prompt. They offer a proficient demonstration of knowledge of the course material and spark some discussion. 
+B- through B+: The content and delivery meet expectations of the prompt. They demonstrate accepted knowledge of the course material. They spark some discussion.
 
-C or C+: The content and delivery meet some expectations of the prompt. They demonstrate knowledge of the course material but spark little to no discussion. 
+C or C+: The content and delivery meet some expectations of the prompt. They demonstrate accepted knowledge of the course material but spark little to no discussion.
 
-D: The content and delivery do not meet expectations of the prompt. They demonstrate some knowledge of the course material, but they do not spark discussion. 
+D: The content and delivery do not meet expectations of the prompt. They demonstrate some knowledge of the course material but do not spark discussion.
 
-F: The content and delivery do not meet expectations of the prompt. They do not demonstrate knowledge of the course material, and they do not spark discussion. 
+F: The content and delivery do not meet expectations of the prompt. They do not demonstrate knowledge of the course material, and they do not spark discussion.
 
 ## How to Do Well in this Course 
 
