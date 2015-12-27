@@ -1,4 +1,4 @@
-# Objectives for English 429B
+# Objectives
 
 By the conclusion of this course, you should learn to:
 * Articulate how science fiction and speculation inform accounts of mid-20th-century U.S. fiction,  
