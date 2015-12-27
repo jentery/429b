@@ -22,7 +22,7 @@ From the 1940s through the 1970s, how did speculation and fiction intersect in t
 
 With the exception of “No Woman Born” (which will be circulated during class), required texts are available (in used condition) at the UVic Bookstore, for a total of $100-120. I will reference the Bookstore’s copies during class discussion, but feel free to choose whichever edition you prefer, in print or digital format. (I recommend reading these books in print.) If we are pressed for time this semester, then we will cut *Slaughterhouse Five* from the reading schedule.  
 
-## Assignments
+# Assignments
 
 ## Short Essay 1: Close Reading or Deconstruction (25% of your final mark) 
 
