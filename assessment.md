@@ -41,7 +41,7 @@ C or C+: The content and delivery meet some expectations of the prompt. They dem
 
 D: The content and delivery do not meet expectations of the prompt. They demonstrate some knowledge of the course material but do not spark discussion.
 
-F: The content and delivery do not meet expectations of the prompt. They do not demonstrate knowledge of the course material, and they do not spark discussion.
+F: The presentation is not given, or the content and delivery do not meet expectations of the prompt. They do not demonstrate knowledge of the course material, and they do not spark discussion.
 
 ## How to Do Well in this Course 
 
