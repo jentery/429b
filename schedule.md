@@ -1,0 +1,75 @@
+# Schedule
+
+Although it is subject to change, below is the course outline as of Week 1. 
+
+## Week 1 (January 4 + 7) 
+
+* Monday: Introductions; Aims of the Course; Lecture
+* Thursday: NO CLASS (Jentery in Austin, TX for a conference) 
+
+## Week 2 (January 11 + 14) 
+
+* Monday: "No Woman Born” (Discussion and Lecture)  
+* Thursday:	*Babel-17* (Discussion and Lecture)  
+
+## Week 3 (January 18 + 21) 
+
+* Monday:	*Babel-17* (Discussion and Presentations)  
+* Thursday:	*Babel-17* (Discussion, Presentations, and Lecture)  
+
+## Week 4 (January 25 + 28)
+
+* Monday: *Ubik* (Discussion and Lecture)  
+* Thursday: *Ubik* (Discussion and Presentations) 
+
+## Week 5 (February 1 + 4) 
+
+* Monday: *Ubik* (Discussion, Presentations, and Lecture)  
+* Thursday:	*The Left Hand of Darkness* (Discussion and Lecture) 
+
+Due on Thursday the 4th: Short Essay #1 
+
+## Week 6 (February 8 + 11) 
+
+*Reading Break* 
+
+## Week 7 (February 15 + 18)
+
+* Monday: *The Left Hand of Darkness* (Discussion and Presentations)
+* Thursday: *The Left Hand of Darkness* (Discussion, Presentations, and Lecture) 
+
+## Week 8 (February 22 + 25)  
+
+* Monday: *Kindred* (Discussion and Lecture)  
+* Thursday:	*Kindred* (Discussion and Presentations)  
+
+## Week 9 (February 29 + March 3) 
+
+* Monday: *Kindred* (Discussion, Presentations, and Lecture)  
+* Thursday:	NO CLASS (Jentery traveling for talks)  
+
+## Week 10 (March 7 + 10)  
+
+* Monday:	*Mumbo Jumbo* (Discussion and Lecture) 
+* Thursday:	*Mumbo Jumbo* (Discussion and Presentations) 
+
+## Week 11 (March 14 + 17)
+
+* Monday:	*Mumbo Jumbo* (Discussion, Presentations, and Lecture) 
+* Thursday:	*Slaughterhouse Five* (Discussion and Lecture)  
+
+## Week 12 (March 21 + 24) 
+
+* Monday:	*Slaughterhouse Five* (Discussion and Presentations) 
+* Thursday: *Slaughterhouse Five* (Discussion, Presentations, and Lecture) 
+
+## Week 13 (March 28 + 31)  
+
+* Monday:	NO CLASS (Holiday) 	
+* Thursday:	Review 
+
+Due on Thursday the 31st: Short Essay #2 
+
+## Week 14 (April 4)
+
+* Monday: Presentations  
