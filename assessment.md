@@ -21,7 +21,7 @@ A- through A+: The content exceeds the expectations of the prompt. It is focused
 
 B- through B+: The content meets the expectations of the prompt. It is focused and coherently integrates examples with explanations or analysis. It demonstrates some awareness of its own limitations or implications, and it considers multiple perspectives when appropriate. It reflects engagement with the selected text, and the argument is sound.  
 
-C or C+: The content meets some expectations of the prompt. It is somewhat focused and integrates some examples with explanations or analysis. It demonstrates minimal awareness of its own limitations or implications, and it considers few perspectives. It reflects engagement with the selected text; however the argument is not sound.  
+C or C+: The content meets some expectations of the prompt. It is somewhat focused and integrates some examples with explanations or analysis. It demonstrates minimal awareness of its own limitations or implications, and it considers few perspectives. It reflects engagement with the selected text; however, the argument is not sound.  
 
 D: The content does not meet expectations of the prompt. It is not focused, or it does not integrate examples with explanations or analysis. It does not demonstrate awareness of its own limitations or implications, or it does not consider multiple perspectives. It does not reflect engagement with the selected text, and the argument is not sound.  
 
