@@ -99,6 +99,13 @@ a:hover {
   outline: 0;
 }
 
+header a {
+  color: #fff;
+}
+header a:hover {
+  color: #9ddcff;
+}
+
 /* Text-level semantics
    ========================================================================== */
 
