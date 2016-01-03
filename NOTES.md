@@ -21,7 +21,7 @@ Since this course is tied to a particular historical period (1940s-1970s in the 
 3. Cultural critique and social satire during the 1940s and 50s, including [*The Space Merchants*](https://archive.org/details/CBSRadioWorkshop#), by Frederik Pohl and Cyril M. Kornbluth, as well as *The Twilight Zone*, 
 4. New subjectivities in the 1960s, including [Philip K. Dick's work](https://archive.org/details/Rare_Philip_K_Dick_interview_2006)'s work, which we'll read this term, 
 5. Speculative fiction and new aesthetics, especially during the 1960s, '70s, and '80s, including [Samuel R. Delany's work](https://archive.org/details/SeeingEarTheatre_690), which we'll also read this term, and 
-6. Cyberpunk during the 1980s and '90s, including [William Gibon's *Neuromancer*](https://archive.org/details/Timothy_Leary_Archives_206.dv).
+6. Cyberpunk during the 1980s and '90s, including [William Gibson's *Neuromancer*](https://archive.org/details/Timothy_Leary_Archives_206.dv).
 
 In this course, we'll focus largely on 3, 4, and 5, including how they respond to 1 but also how they anticipate 6. Our emphasis will be on how, when new worlds are imagined, we see material conditions, social realtions, and modes of perception and knowing change, too (if at all). How are the books we're reading both challenging and perptuating norms, including norms we associate with writing, reading, power, bodies, and landscapes? How do they propose gaps between the histories or futures we may take for granted and the histories or futures that are possible? 
 
