@@ -1,5 +1,26 @@
 # Lecture and Discussion Notes 
 
+## 11 January: "No Woman Born"
+
+C.L. Moore's "No Woman Born" was published in Astounding Stories in 1944, just prior to end of World War II. At this time, a key cultural question (or anxiety), often engaged in literature of the period, is whether technology was conducive to human autonomy. It is no coincidence, then, that Moore draws explicitly from Shelley's Frankenstein
+
+Following last week's meeting, we might ask how "No Woman Born" is a speculative text. Which "what if?" questions does it ask? And to what effects on how we interpret Moore's writing?
+
+For the purposes of this discussion, I propose we use the following question as a way to interpret "No Woman Born": "What if gender is a performance?" Before we consider the implications of this question, we should note that the story has three primary characters: Deirdre (a famous actress and singer who dies, or loses her first body, in a theatre fire), Maltzer (who designs Deirdre's new metallic body, which houses her brain), and Harris (Deirdre's agent). We might note, too, that Deirdre is variously described, or describes herself variously, in the text. She is human, superhuman, nonhuman, robot, woman, female, and without sex, for instance. A question related to the performance of gender, then, is how much agency Deirdre has and when. If gender is a performance in the story, then when is Deidre trapped or objectified? When is she liberated? How does she relate to others, and how is she perceived? What power does she have?
+
+Following existing research on Moore's work (see Hollinger 1999 and Stevenson 2007, e.g.), if gender is a performance in "No Woman Born," then we might suggest that:
+
+* Deirdre's identity (as a woman, as a performer) is linked to her body; generally speaking, to be a woman in "No Woman Born" is to look like a woman (or, more precisely, an idealized version of a woman).
+* To be a woman is to be an object of male desire; for instance, Maltzer frequently objectifies Deirdre as a thing he has made (a sort of "male birth fantasy").
+* Femininity and gender act as masks, with Deirdre mentally projecting her self-image onto her metallic body, which is frequently described as attractive (again, as an idealized version of a woman) even if it is "artificial" or "inorganic."
+* Deirdre may be described as sexless or not female, and these descriptions follow a binary logic (woman-man, human-nonhuman).
+* Deirdre may assert independence or autonomy from Maltzer (in particular) or patriarchal society (in general), in part through declarations that she owns herself, her brain, and/or her body.
+* Audiences, including Maltzer and Harris, routinely expect Deirdre to perform some sort of authenticity (e.g., to be a "real" woman or an "actual" human) through acts such as laughter and singing.
+* Deirdre, as the only humanoid, is simultaneously liberated by a degree of autonomy and isolated due to a lack of community or companionship; in her unique subject position, she is concerned about being alone.
+
+These interpretations do not cohere; however, one compelling (or literary) aspect of Moore's "No Woman Born" is how it approaches gender, technology, and culture with significant ambivalence.
+
+
 ## 4 January 2016 
 
 Welcome to 429B, everyone. When you have a moment, please review the [syllabus](http://web.uvic.ca/~englblog/429bs2016.pdf) and let me know of any concerns. We should also introduce ourselves: if you don't mind, then take a moment to chat with someone next to you. After you have a minute or so to talk, I'll ask you to introduce that person to the class by telling us their name, preferred pronoun, and the first thing that comes to their mind when they hear, "science fiction."</p>
